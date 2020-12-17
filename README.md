@@ -7,7 +7,6 @@ Chart Playground is a testing file for integrating the [Apex Charts](https://ape
 
 The file has two samples - one with a multiple data series on a single chart and one with synchronized charts. These charts are extremely interactive! Try click-and-dragging a selection of data points, or using the other view controls in the top right.
 
-_____
 
 ## Chicken Cutie Media
 
